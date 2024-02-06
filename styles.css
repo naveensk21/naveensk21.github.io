@@ -269,10 +269,11 @@ aside nav {
 }
 
 /* Hero Section */
+/* padding 60px 0px 60px 0px*/
 
 #hero-section {
   margin: 0px auto;
-  padding: 60px 0px 60px 0px;
+  padding: 60px 0px 10px 0px; 
   max-width: 1000px;
   display: flex;
   -moz-box-pack: center;
@@ -318,9 +319,10 @@ aside nav {
 }
 
 /* About Section */
+/* padding: 100px 10px 150px 10px; */
 
 #about-section {
-  padding: 100px 10px 150px 10px;
+  padding: 100px 10px 20px 10px;
   margin: 0 auto 12vh auto;
   max-width: 1000px;
 }
@@ -614,9 +616,10 @@ aside nav {
 }
 
 /* Contact Section */
+/* padding: 180px 10px; */
 
 #contact-section {
-  padding: 180px 10px;
+  padding: 0px 0px;
   margin: 14vh auto 14vh auto;
   max-width: 600px;
   text-align: center;
